@@ -18,7 +18,7 @@ h1{
 }
 
 nav{
-    background-color: red;
+    background-color: rgb(21, 51, 78);
     font-weight: bold;
     border-bottom:solid 3px white ;
     
@@ -178,7 +178,7 @@ nav{
   --primary-bg: #ffffff;
   --secondary-bg: #EDF7F6;
   --text-color: #000000;
-  --nav-bg: red;
+  --nav-bg: rgb(21, 51, 78);
   --nav-text: #ffffff;
   --border-color: rgb(21, 51, 78);
   --card-bg: #ffffff;
